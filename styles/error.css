@@ -1,5 +1,7 @@
 .error {
-  position: absolute;
+  margin-top: 257px;
+  width: 711px;
+  height: 386px;
   inset: 0;
   display: flex;
   justify-content: center;
